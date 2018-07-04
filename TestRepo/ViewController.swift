@@ -31,5 +31,9 @@ class ViewController: UIViewController {
     func test2() {
         
     }
+    
+    func test3() {
+        
+    }
 }
 
