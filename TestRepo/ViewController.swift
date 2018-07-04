@@ -24,6 +24,16 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    func test1() {
+        
+    }
+    
+    func test2() {
+        
+    }
+    
+    func test3() {
+        
+    }
 }
 
